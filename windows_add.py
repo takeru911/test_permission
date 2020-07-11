@@ -1,1 +1,3 @@
 print("hoge")
+
+print("hoge")
